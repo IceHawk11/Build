@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: 'DM Sans', sans-serif;
+    background-color: white;
+  }
+  
+  /* Optional: Create utility classes */
+  .font-dm-sans {
+    font-family: 'DM Sans', sans-serif;
+  }
